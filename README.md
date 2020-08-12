@@ -8,3 +8,7 @@ Follow the progression of the APP
 
 - Try to fixe the popup issue
 
+### `12/08/2020`
+
+- The problem came fronm the API KEY .. now it's all good
+
