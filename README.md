@@ -3,7 +3,7 @@
 
 ## See Live
 
-[Live](https://impwng-voiceassistant-app.netlify.app/)
+
 
 ## Run the App 
 
